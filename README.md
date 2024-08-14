@@ -1,0 +1,2 @@
+# flareboard
+Flareboard frontend app
